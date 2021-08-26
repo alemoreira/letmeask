@@ -1,0 +1,2 @@
+(this.webpackJsonpletmeask=this.webpackJsonpletmeask||[]).push([[0],{9:function(e,t,n){"use strict";n.r(t);var r=n(1),c=n.n(r),s=n(3),o=n.n(s),a=n(0);var i=function(){return Object(a.jsx)("h1",{children:"Hello World React NWL6 Togheter"})};o.a.render(Object(a.jsx)(c.a.StrictMode,{children:Object(a.jsx)(i,{})}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.701fa3c7.chunk.js.map
