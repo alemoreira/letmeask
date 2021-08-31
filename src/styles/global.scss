@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 16px;
+  // colors
+  --body-bg-color: #f8f8f8;
+  --body-color: #29292e;
+  --title-color: #FFFFFF;
+  --sub-title-color: #f8f8f8; 
+  // fonts
+  --roboto-400: 400 1rem 'Roboto', sans-serif;
+  --poppins-700: 700 2.25rem 'Poppins', sans-serif;
+}
+
+body {
+  background: var(--body-bg-color);
+  color: var(--body-color);
+}
+
+body, input, button, textarea {
+  font: var(--roboto-400);
+}
