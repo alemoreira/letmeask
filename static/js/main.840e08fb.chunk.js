@@ -1,2 +1,0 @@
-(this.webpackJsonpletmeask=this.webpackJsonpletmeask||[]).push([[0],{9:function(t,e,n){"use strict";n.r(e);var c=n(1),r=n.n(c),s=n(3),i=n.n(s),u=n(0);function o(t){return Object(u.jsx)("button",{children:t.text})}var a=function(){return Object(u.jsx)(o,{text:"Clique Aqui"})};i.a.render(Object(u.jsx)(r.a.StrictMode,{children:Object(u.jsx)(a,{})}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.840e08fb.chunk.js.map
