@@ -4,6 +4,7 @@ import { NewRoom } from './pages/NewRoom';
 // import { NewRoom } from "./pages/NewRoom";
 
 function App() {
+  // https://medium.com/@arijit_chowdhury/deploy-react-app-with-react-router-to-github-pages-for-free-569377f483f
   return (
     <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Switch>
